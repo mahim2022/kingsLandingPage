@@ -1,0 +1,147 @@
+{
+  "Header": {
+    "title": "Kings Trade INTL.",
+    "paragraph": "Hire top quality workforce from Bangladesh"
+  },
+  "About": {
+    "paragraph": "Kings Trade INTL with License no RL – 348, a recruitment agency licensed/registered with the Ministry of Expatriates and Welfare for labor export activities. The Company is managed by the passionate entrepreneurial Mr.Abu Naser Salahuddin, Managing Director of Kings Trade International Ltd Bangladesh, corporate office: Akram Tower(Level 13), 199 Shahid Nazrul Islam Rd, Dhaka 1000, Bangladesh. We are expertise in providing Human Resource Solutions in various industries. From healthcare to catering we recruit employees by searching and screening the accurate candidate as per our client’s requirements. However, our work does not bound here, along with searching for the perfect candidate, we ensure that we provide the finest training to the candidates and deploy them to work locations. Hence, if you are looking for recruitment solutions then Kings Trade INTL is the ideal organization for you!",
+    "Why": [
+      "In the Industry for 10 years",
+      "Hiring for multiple Countries",
+      "Reliable vetting process",
+      "Always client comes first"
+    ],
+    "Why2": [
+      "Exporting man power to entire middle east",
+      "Robust team",
+      "Integrity",
+      "Expertise with multiple fields of manpower"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Brilliant Star Malaysia",
+      "largeImage": "img/portfolio/brilliantStar.png",
+      "smallImage": "img/portfolio/brilliantStar.png"
+    },
+    {
+      "title": "Sime Darby",
+      "largeImage": "img/portfolio/simeDarby.jfif",
+      "smallImage": "img/portfolio/simeDarby.jfif"
+    },
+    {
+      "title": "Dubai Taxi Corporation",
+      "largeImage": "img/portfolio/dubaiTaxi.webp",
+      "smallImage": "img/portfolio/dubaiTaxi.webp"
+    },
+    {
+      "title": "Rimbaco",
+      "largeImage": "img/portfolio/rimbaco.jpg",
+      "smallImage": "img/portfolio/rimbaco.jpg"
+    },
+    {
+      "title": "Bgmc",
+      "largeImage": "img/portfolio/bgmc-logo.png",
+      "smallImage": "img/portfolio/bgmc-logo.png"
+    },
+    {
+      "title": "felda",
+      "largeImage": "img/portfolio/felda.jpg",
+      "smallImage": "img/portfolio/felda.jpg"
+    },
+    {
+      "title": "arabtec",
+      "largeImage": "img/portfolio/arabtec.jfif",
+      "smallImage": "img/portfolio/arabtec.jfif"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-plane",
+      "name": "Manpower Consultancy",
+      "text": "At kings, we leverage unparalled expertise."
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Employment Assistance",
+      "text": "We always prefer selecting applicant through vetting"
+    },
+    {
+      "icon": "fa fa-ticket",
+      "name": "Ticket Assistance",
+      "text": "We provide flight tickets at the lowest possible  rate"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/simeDarby.jfif",
+      "text": "\"Kings INTL has been the most reliable source of manpower for us for a long while\"",
+      "name": "Shahrizal Suhainy, CFO Sime Darby"
+    },
+    {
+      "img": "img/testimonials/stephen.jpg",
+      "text": "\"We always depend on Kings INTL for all our man power needs\"",
+      "name": "Farah Stephen, Brilliant Star Construction Sdn Bhd"
+    },
+    {
+      "img": "img/testimonials/arabtec.webp",
+      "text": "\"Kings INTL has been the best recruiter for us from Bangladesh for a long time.\"",
+      "name": "Abdallah Ashraf, HR Director Arabtec"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/sohel.jpeg",
+      "name": "Abu Naser Salauddin Sohel",
+      "job": "Managing Director"
+    },
+    {
+      "img": "img/team/babu.jpeg",
+      "name": "MD Abdullah Babu",
+      "job": "Deputy  Director"
+    },
+
+    {
+      "img": "img/team/00.jpg",
+      "name": "MD Kamarauzzan Rahman",
+      "job": "Head of Recruitment"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Naimul Mushfiq",
+      "job": "OverSeas Officer"
+    }
+  ],
+  "Contact": {
+    "address": "HQ: Akram Tower(Level 13), 199 Shahid Nazrul Islam Rd, Dhaka 1000, Bangladesh",
+    "klBranch": " KL Branch: Jalan Teknologi 5, Taman Teknologi , Bukit Jalil , Kuala Lumpur , 57000",
+
+    "phone": "+8801796288649(whatsapp),+60135823736",
+    "email": "kingstradeintl@gmail.com",
+    "facebook": "https://www.linkedin.com/company/kings-trade-international/",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Manpower Consultancy",
+      "text": "At kings, we leverage unparalled expertise."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Employment Assistance",
+      "text": "We always prefer selecting applicant through vetting"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Ticket Assistance",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Visa Assistance",
+      "text": "We also provide assistance for visa application"
+    }
+  ]
+}
